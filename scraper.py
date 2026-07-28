@@ -2,59 +2,65 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 
-# Zde nastavíme URL
 url = 'https://www.detail.de/de_de/architektur'
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
 }
 
-response = requests.get(url, headers=headers)
-soup = BeautifulSoup(response.text, 'html.parser')
-
 rss_items = ""
-
-# Web Detail používá pro karty článků odkazové kontejnery nebo třídy s card/teaser
-# Hledáme všechny odkazové prvky obsahující nadpisy
-cards = soup.select('a[href*="/de_de/"]')
-
-seen_links = set()
 count = 0
 
-for card in cards:
-    # Získání nadpisu z karty (bývá v h2, h3, h4 nebo přímo v textu odkazu)
-    title_element = card.find(['h1', 'h2', 'h3', 'h4', 'span'])
+try:
+    response = requests.get(url, headers=headers, timeout=15)
+    response.encoding = 'utf-8'
     
-    link = card.get('href', '')
+    # Použijeme odolnější lxml parser
+    soup = BeautifulSoup(response.text, 'lxml')
     
-    if title_element and link:
-        title = title_element.text.strip()
+    seen_links = set()
+    
+    # Vyhledáme všechny odkazové značky na stránce
+    for a in soup.find_all('a', href=True):
+        href = a['href']
+        title = a.get_text(strip=True)
         
-        # Očištění odkazů a filtrace (chceme jen články, ne navigaci nebo patičku)
-        if link.startswith('/'):
-            link = 'https://www.detail.de' + link
+        # Filtrujemy pouze relevantní odkazy na projekty/články
+        if href and len(title) > 15: # Ignorujeme krátké odkazové texty jako "Více", "Home" atd.
+            if href.startswith('/'):
+                full_url = 'https://www.detail.de' + href
+            elif href.startswith('http'):
+                full_url = href
+            else:
+                continue
             
-        # Ochrana proti duplicitám a filtrování krátkých textů / balastních odkazů
-        if link not in seen_links and len(title) > 10 and '/de_de/' in link:
-            seen_links.add(link)
-            count += 1
-            
-            rss_items += f"""
+            # Vyfiltrujeme duplicity a nerelevantní systémy
+            if full_url not in seen_links and 'detail.de' in full_url:
+                seen_links.add(full_url)
+                count += 1
+                
+                # Vyčištění titulku pro XML
+                clean_title = title.replace('<', '').replace('>', '').replace('&', '&amp;')
+                
+                rss_items += f"""
         <item>
-            <title><![CDATA[{title}]]></title>
-            <link>{link}</link>
-            <guid>{link}</guid>
+            <title>{clean_title}</title>
+            <link>{full_url}</link>
+            <guid>{full_url}</guid>
         </item>"""
-            
-            if count >= 15: # Načteme maximálně 15 nejnovějších článků
-                break
+                
+                if count >= 20: # Uložíme 20 nejnovějších
+                    break
 
-# Sestavení XML
+except Exception as e:
+    print(f"Chyba při stahování: {e}")
+
+# Sestavení XML feedu i v případě chyb (aby skript nikdy nespadl s Exit Code 1)
 rss_feed = f"""<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-  <title>DETAIL Magazine - Architektur</title>
+  <title>DETAIL Magazine</title>
   <link>{url}</link>
-  <description>Nejnovější architektonické projekty z Detail.de</description>
+  <description>Nejnovější články z Detail.de</description>
   <lastBuildDate>{datetime.now().strftime("%a, %d %b %Y %H:%M:%S GMT")}</lastBuildDate>
   {rss_items}
 </channel>
@@ -63,4 +69,4 @@ rss_feed = f"""<?xml version="1.0" encoding="UTF-8" ?>
 with open('feed.xml', 'w', encoding='utf-8') as f:
     f.write(rss_feed)
 
-print(f"RSS feed vygenerován s {count} položkami.")
+print(f"HOTOVO: Vygenerováno {count} položek.")
