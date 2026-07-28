@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 
-url = 'https://www.detail.de/de_de/'
+url = 'https://www.detail.de/de_en/'
 
 # Kompletní hlavičky prohlížeče, aby nás web neblokoval
 headers = {
