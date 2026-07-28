@@ -31,6 +31,6 @@ jobs:
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           git add feed.xml
-          # Uloží soubor jen v případě, že se něco změnilo
           git diff-index --quiet HEAD || git commit -m "Automatická aktualizace RSS"
+          git pull --rebase origin main
           git push
