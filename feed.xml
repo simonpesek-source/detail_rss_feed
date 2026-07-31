@@ -4,20 +4,8 @@
   <title>DETAIL Magazine</title>
   <link>https://www.detail.de/de_en/</link>
   <description>Nejnovější architektonické projekty a články z Detail.de</description>
-  <lastBuildDate>Thu, 30 Jul 2026 13:18:26 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 31 Jul 2026 15:49:12 GMT</lastBuildDate>
   
-        <item>
-            <title>“Rammed Earth Needs Good Boots and a Good Hat”</title>
-            <link>https://www.detail.de/de_en/stampflehm-braucht-gute-stiefel-und-einen-guten-hut</link>
-            <guid>https://www.detail.de/de_en/stampflehm-braucht-gute-stiefel-und-einen-guten-hut</guid>
-            <description>Jonathan Tuckey has built a house out of rammed earth in Wiltshire, in the south of England. In the interview, he talks about his motivations and the particular challenges of building with earth.</description>
-        </item>
-        <item>
-            <title>A Rammed Earth House in Wiltshire</title>
-            <link>https://www.detail.de/de_en/wohnhaus-aus-stampflehm-in-wiltshire</link>
-            <guid>https://www.detail.de/de_en/wohnhaus-aus-stampflehm-in-wiltshire</guid>
-            <description>A short film portrait of the English country house built from rammed earth by Tuckey Design Studio.</description>
-        </item>
         <item>
             <title>Building or Sculpture?</title>
             <link>https://www.detail.de/de_en/bauwerk-oder-skulptur</link>
@@ -47,6 +35,18 @@
             <link>https://www.detail.de/de_en/casa-clo-in-tarragona-von-alventosa-morell-arquitectes</link>
             <guid>https://www.detail.de/de_en/casa-clo-in-tarragona-von-alventosa-morell-arquitectes</guid>
             <description>With their tiered timber structure clad in corrugated sheet metal, Alventosa Morell Arquitectes has created a peaceful retreat amidst a pine forest with sweeping views of the sea.</description>
+        </item>
+        <item>
+            <title>“Rammed Earth Needs Good Boots and a Good Hat”</title>
+            <link>https://www.detail.de/de_en/stampflehm-braucht-gute-stiefel-und-einen-guten-hut</link>
+            <guid>https://www.detail.de/de_en/stampflehm-braucht-gute-stiefel-und-einen-guten-hut</guid>
+            <description>Jonathan Tuckey has built a house out of rammed earth in Wiltshire, in the south of England. In the interview, he talks about his motivations and the particular challenges of building with earth.</description>
+        </item>
+        <item>
+            <title>A Rammed Earth House in Wiltshire</title>
+            <link>https://www.detail.de/de_en/wohnhaus-aus-stampflehm-in-wiltshire</link>
+            <guid>https://www.detail.de/de_en/wohnhaus-aus-stampflehm-in-wiltshire</guid>
+            <description>A short film portrait of the English country house built from rammed earth by Tuckey Design Studio.</description>
         </item>
         <item>
             <title>Samuel H. Scripps Theater Center by Studio Gang</title>
@@ -85,6 +85,12 @@
             <description>In the sprawling village of Goiáns, the team at Nula.Studio has created a bright-red community centre with a roof featuring numerous folds, thereby establishing a landmark that symbolises community spirit.</description>
         </item>
         <item>
+            <title>Renovation of the Caffè Nazionale in Arzignano</title>
+            <link>https://www.detail.de/de_en/sanierung-caffe-nazionale-in-arzignano</link>
+            <guid>https://www.detail.de/de_en/sanierung-caffe-nazionale-in-arzignano</guid>
+            <description>The architectural practice AMAA has restored the historic Caffè Nazionale in Arzignano, in northern Italy. The design combines the existing building fabric with new elements to create a spatial sequence linking the interior and exterior spaces.</description>
+        </item>
+        <item>
             <title>Hair Salon as Sound Laboratory</title>
             <link>https://www.detail.de/de_en/ein-friseursalon-als-klanglabor</link>
             <guid>https://www.detail.de/de_en/ein-friseursalon-als-klanglabor</guid>
@@ -95,12 +101,6 @@
             <link>https://www.detail.de/de_en/licht-aus-einem-bauteil</link>
             <guid>https://www.detail.de/de_en/licht-aus-einem-bauteil</guid>
             <description>The Somnium lighting system from Artemide combines the lens, anti-glare shield and housing into a single component, achieving a UGR of less than 16. This is a design approach that rethinks the norm.</description>
-        </item>
-        <item>
-            <title>Tarkett</title>
-            <link>https://www.detail.de/de_en/tarkett</link>
-            <guid>https://www.detail.de/de_en/tarkett</guid>
-            <description></description>
         </item>
         <item>
             <title>Studioninedots Creates Spaces for a New Way of Living Together</title>
@@ -193,6 +193,12 @@
             <description>The DelaVegaCanolasso architecture studio specialize in small houses using modular techniques. In this video, Ignacio de la Vega and Pilar Cano-Lasso shed light on their latest project, the Fresnos house in Madrid.</description>
         </item>
         <item>
+            <title>Sensors for connected lighting control</title>
+            <link>https://www.detail.de/de_en/sensorik-fur-vernetzte-lichtsteuerung</link>
+            <guid>https://www.detail.de/de_en/sensorik-fur-vernetzte-lichtsteuerung</guid>
+            <description>Trilux is expanding its range of lighting management systems to include sensor technology for energy-efficient lighting concepts with IntuSens. The system comprises five product ranges and can be used to plan lighting solutions for a variety of settings, from offices and educational buildings to industrial premises.</description>
+        </item>
+        <item>
             <title>Sports field, heavy rain and a building component</title>
             <link>https://www.detail.de/de_en/sportflache-starkregen-ein-bauteil</link>
             <guid>https://www.detail.de/de_en/sportflache-starkregen-ein-bauteil</guid>
@@ -203,12 +209,6 @@
             <link>https://www.detail.de/de_en/holz-statt-keramik</link>
             <guid>https://www.detail.de/de_en/holz-statt-keramik</guid>
             <description>Agape presents its first collaboration with David Chipperfield Architects: the Tambre, a wooden bathtub that reimagines classic bathroom designs.</description>
-        </item>
-        <item>
-            <title>Revisiting the Hansaviertel</title>
-            <link>https://www.detail.de/de_en/weiterbauen-im-hansaviertel</link>
-            <guid>https://www.detail.de/de_en/weiterbauen-im-hansaviertel</guid>
-            <description>In Berlin's Hansaviertel district, Café Tiergarten has been restored in keeping with its heritage status, featuring fittings from FSB.</description>
         </item>
 </channel>
 </rss>
