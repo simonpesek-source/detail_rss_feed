@@ -4,13 +4,25 @@
   <title>DETAIL Magazine</title>
   <link>https://www.detail.de/de_en/</link>
   <description>Nejnovější architektonické projekty a články z Detail.de</description>
-  <lastBuildDate>Sun, 02 Aug 2026 11:45:54 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 03 Aug 2026 16:57:54 GMT</lastBuildDate>
   
         <item>
-            <title>Building or Sculpture?</title>
-            <link>https://www.detail.de/de_en/bauwerk-oder-skulptur</link>
-            <guid>https://www.detail.de/de_en/bauwerk-oder-skulptur</guid>
-            <description>In the heart of Munich’s Maxvorstadt district, Kéré Architecture and HK Architekten have built an oasis for children at the Technical University of Munich. The freestanding timber structure was approved because it has been classified as a sculpture.</description>
+            <title>Micro-Museum of Historic Bridges by Luo Studio</title>
+            <link>https://www.detail.de/de_en/mikromuseum-fur-historische-brucken-von-luo-studio</link>
+            <guid>https://www.detail.de/de_en/mikromuseum-fur-historische-brucken-von-luo-studio</guid>
+            <description>Originally, only an artistically designed service station was planned along the tourist route in the hilly countryside of southern China. Luo Studio has transformed this into an exhibition building that celebrates the region’s historic bridge-building heritage.</description>
+        </item>
+        <item>
+            <title>“Rammed Earth Needs Good Boots and a Good Hat”</title>
+            <link>https://www.detail.de/de_en/stampflehm-braucht-gute-stiefel-und-einen-guten-hut</link>
+            <guid>https://www.detail.de/de_en/stampflehm-braucht-gute-stiefel-und-einen-guten-hut</guid>
+            <description>Jonathan Tuckey has built a house out of rammed earth in Wiltshire, in the south of England. In the interview, he talks about his motivations and the particular challenges of building with earth.</description>
+        </item>
+        <item>
+            <title>Spaziu Davia Franceschini in Corsica by A Fabrica Architettura</title>
+            <link>https://www.detail.de/de_en/spaziu-davia-franceschini-in-korsika-von-a-fabrica-architettura</link>
+            <guid>https://www.detail.de/de_en/spaziu-davia-franceschini-in-korsika-von-a-fabrica-architettura</guid>
+            <description>For a long time, an undeveloped plot of land lay next to Corbara Church. The new village square with its community centre not only blends in perfectly with the local topography – its retaining walls and facades were also constructed using earth excavated from the building site.</description>
         </item>
         <item>
             <title>DETAIL Facade Congress 2026</title>
@@ -19,10 +31,16 @@
             <description>The Detail Facade Congress on 21 May 2026 will demonstrate that facades are more than just attractive outer shells; they are adaptive and climate-friendly building envelopes.</description>
         </item>
         <item>
-            <title>Spaziu Davia Franceschini in Corsica by A Fabrica Architettura</title>
-            <link>https://www.detail.de/de_en/spaziu-davia-franceschini-in-korsika-von-a-fabrica-architettura</link>
-            <guid>https://www.detail.de/de_en/spaziu-davia-franceschini-in-korsika-von-a-fabrica-architettura</guid>
-            <description>For a long time, an undeveloped plot of land lay next to Corbara Church. The new village square with its community centre not only blends in perfectly with the local topography – its retaining walls and facades were also constructed using earth excavated from the building site.</description>
+            <title>A Rammed Earth House in Wiltshire</title>
+            <link>https://www.detail.de/de_en/wohnhaus-aus-stampflehm-in-wiltshire</link>
+            <guid>https://www.detail.de/de_en/wohnhaus-aus-stampflehm-in-wiltshire</guid>
+            <description>A short film portrait of the English country house built from rammed earth by Tuckey Design Studio.</description>
+        </item>
+        <item>
+            <title>Building or Sculpture?</title>
+            <link>https://www.detail.de/de_en/bauwerk-oder-skulptur</link>
+            <guid>https://www.detail.de/de_en/bauwerk-oder-skulptur</guid>
+            <description>In the heart of Munich’s Maxvorstadt district, Kéré Architecture and HK Architekten have built an oasis for children at the Technical University of Munich. The freestanding timber structure was approved because it has been classified as a sculpture.</description>
         </item>
         <item>
             <title>Superhuman Principles</title>
@@ -35,18 +53,6 @@
             <link>https://www.detail.de/de_en/casa-clo-in-tarragona-von-alventosa-morell-arquitectes</link>
             <guid>https://www.detail.de/de_en/casa-clo-in-tarragona-von-alventosa-morell-arquitectes</guid>
             <description>With their tiered timber structure clad in corrugated sheet metal, Alventosa Morell Arquitectes has created a peaceful retreat amidst a pine forest with sweeping views of the sea.</description>
-        </item>
-        <item>
-            <title>“Rammed Earth Needs Good Boots and a Good Hat”</title>
-            <link>https://www.detail.de/de_en/stampflehm-braucht-gute-stiefel-und-einen-guten-hut</link>
-            <guid>https://www.detail.de/de_en/stampflehm-braucht-gute-stiefel-und-einen-guten-hut</guid>
-            <description>Jonathan Tuckey has built a house out of rammed earth in Wiltshire, in the south of England. In the interview, he talks about his motivations and the particular challenges of building with earth.</description>
-        </item>
-        <item>
-            <title>A Rammed Earth House in Wiltshire</title>
-            <link>https://www.detail.de/de_en/wohnhaus-aus-stampflehm-in-wiltshire</link>
-            <guid>https://www.detail.de/de_en/wohnhaus-aus-stampflehm-in-wiltshire</guid>
-            <description>A short film portrait of the English country house built from rammed earth by Tuckey Design Studio.</description>
         </item>
         <item>
             <title>Samuel H. Scripps Theater Center by Studio Gang</title>
@@ -79,10 +85,10 @@
             <description>Ansgar Schulz supervised the construction of the Mother-of-Pearl Immersive Museum in Adorf, Saxony, from the very beginning. In our interview he describes which challenges the realisation of the hypar shell entailed and why rain played a central role in addressing them.</description>
         </item>
         <item>
-            <title>Goiáns Community Centre in Galicia by Nula.Studio</title>
-            <link>https://www.detail.de/de_en/goians-community-center-in-galicien-von-nula-studio</link>
-            <guid>https://www.detail.de/de_en/goians-community-center-in-galicien-von-nula-studio</guid>
-            <description>In the sprawling village of Goiáns, the team at Nula.Studio has created a bright-red community centre with a roof featuring numerous folds, thereby establishing a landmark that symbolises community spirit.</description>
+            <title>Renovation of the Central Pavilion in the Giardini</title>
+            <link>https://www.detail.de/de_en/neugestaltung-des-zentralpavillons-in-den-giardini</link>
+            <guid>https://www.detail.de/de_en/neugestaltung-des-zentralpavillons-in-den-giardini</guid>
+            <description>Following 16 months of renovations, the Central Pavilion in the Giardini della Biennale has reopened in time for the Art Biennale. The modernisation was overseen by Labics and Fabio Fumagalli.</description>
         </item>
         <item>
             <title>Renovation of the Caffè Nazionale in Arzignano</title>
@@ -97,10 +103,10 @@
             <description>With the Salt Salon, London-based studio Unknown Works combines architecture, club culture and digital fabrication to demonstrate how the interplay of precision, materials and improvisation can create an entirely new spatial experience.</description>
         </item>
         <item>
-            <title>Light from a single component</title>
-            <link>https://www.detail.de/de_en/licht-aus-einem-bauteil</link>
-            <guid>https://www.detail.de/de_en/licht-aus-einem-bauteil</guid>
-            <description>The Somnium lighting system from Artemide combines the lens, anti-glare shield and housing into a single component, achieving a UGR of less than 16. This is a design approach that rethinks the norm.</description>
+            <title>Goiáns Community Centre in Galicia by Nula.Studio</title>
+            <link>https://www.detail.de/de_en/goians-community-center-in-galicien-von-nula-studio</link>
+            <guid>https://www.detail.de/de_en/goians-community-center-in-galicien-von-nula-studio</guid>
+            <description>In the sprawling village of Goiáns, the team at Nula.Studio has created a bright-red community centre with a roof featuring numerous folds, thereby establishing a landmark that symbolises community spirit.</description>
         </item>
         <item>
             <title>Studioninedots Creates Spaces for a New Way of Living Together</title>
@@ -193,6 +199,12 @@
             <description>The DelaVegaCanolasso architecture studio specialize in small houses using modular techniques. In this video, Ignacio de la Vega and Pilar Cano-Lasso shed light on their latest project, the Fresnos house in Madrid.</description>
         </item>
         <item>
+            <title>A Textile Between Open and Opaque</title>
+            <link>https://www.detail.de/de_en/vorhangstoff-zwischen-raster-und-transparenz</link>
+            <guid>https://www.detail.de/de_en/vorhangstoff-zwischen-raster-und-transparenz</guid>
+            <description>This magnet is from the Three collection, which was designed by Isa Glink for Kvadrat and exhibited at the 3 Days of Design event in Copenhagen. This curtain fabric strikes a balance between a grid pattern and transparency.</description>
+        </item>
+        <item>
             <title>Sensors for connected lighting control</title>
             <link>https://www.detail.de/de_en/sensorik-fur-vernetzte-lichtsteuerung</link>
             <guid>https://www.detail.de/de_en/sensorik-fur-vernetzte-lichtsteuerung</guid>
@@ -203,12 +215,6 @@
             <link>https://www.detail.de/de_en/sportflache-starkregen-ein-bauteil</link>
             <guid>https://www.detail.de/de_en/sportflache-starkregen-ein-bauteil</guid>
             <description>Heavy rainfall presents a unique challenge for paved sports surfaces. Hauraton’s Sportfix system integrates drainage and water treatment within the channel itself, eliminating the need for external filters.</description>
-        </item>
-        <item>
-            <title>Wood instead of ceramics</title>
-            <link>https://www.detail.de/de_en/holz-statt-keramik</link>
-            <guid>https://www.detail.de/de_en/holz-statt-keramik</guid>
-            <description>Agape presents its first collaboration with David Chipperfield Architects: the Tambre, a wooden bathtub that reimagines classic bathroom designs.</description>
         </item>
 </channel>
 </rss>
