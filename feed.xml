@@ -4,13 +4,31 @@
   <title>DETAIL Magazine</title>
   <link>https://www.detail.de/de_en/</link>
   <description>Nejnovější architektonické projekty a články z Detail.de</description>
-  <lastBuildDate>Tue, 04 Aug 2026 16:21:28 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 05 Aug 2026 15:51:07 GMT</lastBuildDate>
   
+        <item>
+            <title>Between Playfulness and Science</title>
+            <link>https://www.detail.de/de_en/zwischen-spieltrieb-und-wissenschaft</link>
+            <guid>https://www.detail.de/de_en/zwischen-spieltrieb-und-wissenschaft</guid>
+            <description>Many Australian farmers consider bamboo a waste product. However, Cave Urban, based in Sydney, uses it to create impressive art and architectural installations. In this interview, they explain how they came up with the idea and what they have learnt about building with bamboo.</description>
+        </item>
         <item>
             <title>Living with the Seasons</title>
             <link>https://www.detail.de/de_en/mit-den-jahreszeiten-wohnen</link>
             <guid>https://www.detail.de/de_en/mit-den-jahreszeiten-wohnen</guid>
             <description>„The Well-Tempered House” aims to answer critical questions on sufficiency in residential construction. An interview with Elli Mosayebi of EMI Architects.</description>
+        </item>
+        <item>
+            <title>“Rammed Earth Needs Good Boots and a Good Hat”</title>
+            <link>https://www.detail.de/de_en/stampflehm-braucht-gute-stiefel-und-einen-guten-hut</link>
+            <guid>https://www.detail.de/de_en/stampflehm-braucht-gute-stiefel-und-einen-guten-hut</guid>
+            <description>Jonathan Tuckey has built a house out of rammed earth in Wiltshire, in the south of England. In the interview, he talks about his motivations and the particular challenges of building with earth.</description>
+        </item>
+        <item>
+            <title>DETAIL Facade Congress 2026</title>
+            <link>https://www.detail.de/de_en/fassadenkongress-2026</link>
+            <guid>https://www.detail.de/de_en/fassadenkongress-2026</guid>
+            <description>The Detail Facade Congress on 21 May 2026 will demonstrate that facades are more than just attractive outer shells; they are adaptive and climate-friendly building envelopes.</description>
         </item>
         <item>
             <title>Micro-Museum of Historic Bridges by Luo Studio</title>
@@ -23,18 +41,6 @@
             <link>https://www.detail.de/de_en/wohnhaus-aus-stampflehm-in-wiltshire</link>
             <guid>https://www.detail.de/de_en/wohnhaus-aus-stampflehm-in-wiltshire</guid>
             <description>A short film portrait of the English country house built from rammed earth by Tuckey Design Studio.</description>
-        </item>
-        <item>
-            <title>DETAIL Facade Congress 2026</title>
-            <link>https://www.detail.de/de_en/fassadenkongress-2026</link>
-            <guid>https://www.detail.de/de_en/fassadenkongress-2026</guid>
-            <description>The Detail Facade Congress on 21 May 2026 will demonstrate that facades are more than just attractive outer shells; they are adaptive and climate-friendly building envelopes.</description>
-        </item>
-        <item>
-            <title>“Rammed Earth Needs Good Boots and a Good Hat”</title>
-            <link>https://www.detail.de/de_en/stampflehm-braucht-gute-stiefel-und-einen-guten-hut</link>
-            <guid>https://www.detail.de/de_en/stampflehm-braucht-gute-stiefel-und-einen-guten-hut</guid>
-            <description>Jonathan Tuckey has built a house out of rammed earth in Wiltshire, in the south of England. In the interview, he talks about his motivations and the particular challenges of building with earth.</description>
         </item>
         <item>
             <title>Spaziu Davia Franceschini in Corsica by A Fabrica Architettura</title>
@@ -79,12 +85,6 @@
             <description>Jacques Herzog and Pierre de Meuron have shaped contemporary architecture like few others, with an impressive portfolio of nearly 700 distinctive built and unbuilt projects.</description>
         </item>
         <item>
-            <title>Titlis Tower in Engelsberg by Herzog &amp; de Meuron</title>
-            <link>https://www.detail.de/de_en/titlis-tower-in-engelsberg-von-herzog-de-meuron</link>
-            <guid>https://www.detail.de/de_en/titlis-tower-in-engelsberg-von-herzog-de-meuron</guid>
-            <description>At an elevation of over 3 000 metres above sea level, Herzog &amp; de Meuron has transformed an antenna tower into an iconic steel sculpture. Visitors can enjoy the panoramic views of the glacier from the viewing platform and take a break in the restaurant.</description>
-        </item>
-        <item>
             <title>Revisiting the Hansaviertel</title>
             <link>https://www.detail.de/de_en/weiterbauen-im-hansaviertel</link>
             <guid>https://www.detail.de/de_en/weiterbauen-im-hansaviertel</guid>
@@ -103,10 +103,10 @@
             <description>The architectural practice AMAA has restored the historic Caffè Nazionale in Arzignano, in northern Italy. The design combines the existing building fabric with new elements to create a spatial sequence linking the interior and exterior spaces.</description>
         </item>
         <item>
-            <title>Goiáns Community Centre in Galicia by Nula.Studio</title>
-            <link>https://www.detail.de/de_en/goians-community-center-in-galicien-von-nula-studio</link>
-            <guid>https://www.detail.de/de_en/goians-community-center-in-galicien-von-nula-studio</guid>
-            <description>In the sprawling village of Goiáns, the team at Nula.Studio has created a bright-red community centre with a roof featuring numerous folds, thereby establishing a landmark that symbolises community spirit.</description>
+            <title>Titlis Tower in Engelsberg by Herzog &amp; de Meuron</title>
+            <link>https://www.detail.de/de_en/titlis-tower-in-engelsberg-von-herzog-de-meuron</link>
+            <guid>https://www.detail.de/de_en/titlis-tower-in-engelsberg-von-herzog-de-meuron</guid>
+            <description>At an elevation of over 3 000 metres above sea level, Herzog &amp; de Meuron has transformed an antenna tower into an iconic steel sculpture. Visitors can enjoy the panoramic views of the glacier from the viewing platform and take a break in the restaurant.</description>
         </item>
         <item>
             <title>Hotel Leo in St. Gallen by Boltshauser Architects</title>
