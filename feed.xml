@@ -4,7 +4,7 @@
   <title>DETAIL Magazine</title>
   <link>https://www.detail.de/de_en/</link>
   <description>Nejnovější architektonické projekty a články z Detail.de</description>
-  <lastBuildDate>Fri, 07 Aug 2026 10:38:47 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 10:00:06 GMT</lastBuildDate>
   
         <item>
             <title>“Rammed Earth Needs Good Boots and a Good Hat”</title>
@@ -85,6 +85,12 @@
             <description>Jacques Herzog and Pierre de Meuron have shaped contemporary architecture like few others, with an impressive portfolio of nearly 700 distinctive built and unbuilt projects.</description>
         </item>
         <item>
+            <title>Wood instead of ceramics</title>
+            <link>https://www.detail.de/de_en/holz-statt-keramik</link>
+            <guid>https://www.detail.de/de_en/holz-statt-keramik</guid>
+            <description>Agape presents its first collaboration with David Chipperfield Architects: the Tambre, a wooden bathtub that reimagines classic bathroom designs.</description>
+        </item>
+        <item>
             <title>Revisiting the Hansaviertel</title>
             <link>https://www.detail.de/de_en/weiterbauen-im-hansaviertel</link>
             <guid>https://www.detail.de/de_en/weiterbauen-im-hansaviertel</guid>
@@ -95,12 +101,6 @@
             <link>https://www.detail.de/de_en/neugestaltung-des-zentralpavillons-in-den-giardini</link>
             <guid>https://www.detail.de/de_en/neugestaltung-des-zentralpavillons-in-den-giardini</guid>
             <description>Following 16 months of renovations, the Central Pavilion in the Giardini della Biennale has reopened in time for the Art Biennale. The modernisation was overseen by Labics and Fabio Fumagalli.</description>
-        </item>
-        <item>
-            <title>Renovation of the Caffè Nazionale in Arzignano</title>
-            <link>https://www.detail.de/de_en/sanierung-caffe-nazionale-in-arzignano</link>
-            <guid>https://www.detail.de/de_en/sanierung-caffe-nazionale-in-arzignano</guid>
-            <description>The architectural practice AMAA has restored the historic Caffè Nazionale in Arzignano, in northern Italy. The design combines the existing building fabric with new elements to create a spatial sequence linking the interior and exterior spaces.</description>
         </item>
         <item>
             <title>Titlis Tower in Engelsberg by Herzog &amp; de Meuron</title>
@@ -193,6 +193,12 @@
             <description>The DelaVegaCanolasso architecture studio specialize in small houses using modular techniques. In this video, Ignacio de la Vega and Pilar Cano-Lasso shed light on their latest project, the Fresnos house in Madrid.</description>
         </item>
         <item>
+            <title>Bio-carbon content of the material</title>
+            <link>https://www.detail.de/de_en/biokohlenstoff-im-material</link>
+            <guid>https://www.detail.de/de_en/biokohlenstoff-im-material</guid>
+            <description>Bei Hemp Carbon entsteht die Farbe nicht durch Lack oder Pigment, sondern durch den Werkstoff selbst: Hanffasern, Bioharz und Biokohlenstoff aus recyceltem Holz – ohne zusätzliche Oberflächenbehandlung.</description>
+        </item>
+        <item>
             <title>A Textile Between Open and Opaque</title>
             <link>https://www.detail.de/de_en/vorhangstoff-zwischen-raster-und-transparenz</link>
             <guid>https://www.detail.de/de_en/vorhangstoff-zwischen-raster-und-transparenz</guid>
@@ -203,12 +209,6 @@
             <link>https://www.detail.de/de_en/sensorik-fur-vernetzte-lichtsteuerung</link>
             <guid>https://www.detail.de/de_en/sensorik-fur-vernetzte-lichtsteuerung</guid>
             <description>Trilux is expanding its range of lighting management systems to include sensor technology for energy-efficient lighting concepts with IntuSens. The system comprises five product ranges and can be used to plan lighting solutions for a variety of settings, from offices and educational buildings to industrial premises.</description>
-        </item>
-        <item>
-            <title>Sports field, heavy rain and a building component</title>
-            <link>https://www.detail.de/de_en/sportflache-starkregen-ein-bauteil</link>
-            <guid>https://www.detail.de/de_en/sportflache-starkregen-ein-bauteil</guid>
-            <description>Heavy rainfall presents a unique challenge for paved sports surfaces. Hauraton’s Sportfix system integrates drainage and water treatment within the channel itself, eliminating the need for external filters.</description>
         </item>
 </channel>
 </rss>
