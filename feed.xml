@@ -4,13 +4,25 @@
   <title>DETAIL Magazine</title>
   <link>https://www.detail.de/de_en/</link>
   <description>Nejnovější architektonické projekty a články z Detail.de</description>
-  <lastBuildDate>Sun, 09 Aug 2026 10:04:02 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 10 Aug 2026 11:31:42 GMT</lastBuildDate>
   
         <item>
-            <title>“Rammed Earth Needs Good Boots and a Good Hat”</title>
-            <link>https://www.detail.de/de_en/stampflehm-braucht-gute-stiefel-und-einen-guten-hut</link>
-            <guid>https://www.detail.de/de_en/stampflehm-braucht-gute-stiefel-und-einen-guten-hut</guid>
-            <description>Jonathan Tuckey has built a house out of rammed earth in Wiltshire, in the south of England. In the interview, he talks about his motivations and the particular challenges of building with earth.</description>
+            <title>„The Earth Does Not Need Us”</title>
+            <link>https://www.detail.de/de_en/die-erde-braucht-uns-nicht</link>
+            <guid>https://www.detail.de/de_en/die-erde-braucht-uns-nicht</guid>
+            <description>The Paris-based architect with roots in Beirut explains why architecture remains, above all, a matter of people.</description>
+        </item>
+        <item>
+            <title>Between Playfulness and Science</title>
+            <link>https://www.detail.de/de_en/zwischen-spieltrieb-und-wissenschaft</link>
+            <guid>https://www.detail.de/de_en/zwischen-spieltrieb-und-wissenschaft</guid>
+            <description>Many Australian farmers consider bamboo a waste product. However, Cave Urban, based in Sydney, uses it to create impressive art and architectural installations. In this interview, they explain how they came up with the idea and what they have learnt about building with bamboo.</description>
+        </item>
+        <item>
+            <title>Micro-Museum of Historic Bridges by Luo Studio</title>
+            <link>https://www.detail.de/de_en/mikromuseum-fur-historische-brucken-von-luo-studio</link>
+            <guid>https://www.detail.de/de_en/mikromuseum-fur-historische-brucken-von-luo-studio</guid>
+            <description>Originally, only an artistically designed service station was planned along the tourist route in the hilly countryside of southern China. Luo Studio has transformed this into an exhibition building that celebrates the region’s historic bridge-building heritage.</description>
         </item>
         <item>
             <title>DETAIL Facade Congress 2026</title>
@@ -19,10 +31,16 @@
             <description>The Detail Facade Congress on 21 May 2026 will demonstrate that facades are more than just attractive outer shells; they are adaptive and climate-friendly building envelopes.</description>
         </item>
         <item>
-            <title>Micro-Museum of Historic Bridges by Luo Studio</title>
-            <link>https://www.detail.de/de_en/mikromuseum-fur-historische-brucken-von-luo-studio</link>
-            <guid>https://www.detail.de/de_en/mikromuseum-fur-historische-brucken-von-luo-studio</guid>
-            <description>Originally, only an artistically designed service station was planned along the tourist route in the hilly countryside of southern China. Luo Studio has transformed this into an exhibition building that celebrates the region’s historic bridge-building heritage.</description>
+            <title>Living with the Seasons</title>
+            <link>https://www.detail.de/de_en/mit-den-jahreszeiten-wohnen</link>
+            <guid>https://www.detail.de/de_en/mit-den-jahreszeiten-wohnen</guid>
+            <description>„The Well-Tempered House” aims to answer critical questions on sufficiency in residential construction. An interview with Elli Mosayebi of EMI Architects.</description>
+        </item>
+        <item>
+            <title>“Rammed Earth Needs Good Boots and a Good Hat”</title>
+            <link>https://www.detail.de/de_en/stampflehm-braucht-gute-stiefel-und-einen-guten-hut</link>
+            <guid>https://www.detail.de/de_en/stampflehm-braucht-gute-stiefel-und-einen-guten-hut</guid>
+            <description>Jonathan Tuckey has built a house out of rammed earth in Wiltshire, in the south of England. In the interview, he talks about his motivations and the particular challenges of building with earth.</description>
         </item>
         <item>
             <title>A Rammed Earth House in Wiltshire</title>
@@ -35,18 +53,6 @@
             <link>https://www.detail.de/de_en/spaziu-davia-franceschini-in-korsika-von-a-fabrica-architettura</link>
             <guid>https://www.detail.de/de_en/spaziu-davia-franceschini-in-korsika-von-a-fabrica-architettura</guid>
             <description>For a long time, an undeveloped plot of land lay next to Corbara Church. The new village square with its community centre not only blends in perfectly with the local topography – its retaining walls and facades were also constructed using earth excavated from the building site.</description>
-        </item>
-        <item>
-            <title>Between Playfulness and Science</title>
-            <link>https://www.detail.de/de_en/zwischen-spieltrieb-und-wissenschaft</link>
-            <guid>https://www.detail.de/de_en/zwischen-spieltrieb-und-wissenschaft</guid>
-            <description>Many Australian farmers consider bamboo a waste product. However, Cave Urban, based in Sydney, uses it to create impressive art and architectural installations. In this interview, they explain how they came up with the idea and what they have learnt about building with bamboo.</description>
-        </item>
-        <item>
-            <title>Living with the Seasons</title>
-            <link>https://www.detail.de/de_en/mit-den-jahreszeiten-wohnen</link>
-            <guid>https://www.detail.de/de_en/mit-den-jahreszeiten-wohnen</guid>
-            <description>„The Well-Tempered House” aims to answer critical questions on sufficiency in residential construction. An interview with Elli Mosayebi of EMI Architects.</description>
         </item>
         <item>
             <title>Building or Sculpture?</title>
@@ -79,12 +85,6 @@
             <description>Christoph Mäckler’s Terminal 3 is more than just a tribute to Mies van der Rohe, Martin Elsässer, and James Stirling. The ability to expand the departure hall and piers as operations continue ensures the building’s future viability.</description>
         </item>
         <item>
-            <title>Reflected in Friendship</title>
-            <link>https://www.detail.de/de_en/im-spiegel-der-freundschaft</link>
-            <guid>https://www.detail.de/de_en/im-spiegel-der-freundschaft</guid>
-            <description>Jacques Herzog and Pierre de Meuron have shaped contemporary architecture like few others, with an impressive portfolio of nearly 700 distinctive built and unbuilt projects.</description>
-        </item>
-        <item>
             <title>Wood instead of ceramics</title>
             <link>https://www.detail.de/de_en/holz-statt-keramik</link>
             <guid>https://www.detail.de/de_en/holz-statt-keramik</guid>
@@ -101,12 +101,6 @@
             <link>https://www.detail.de/de_en/neugestaltung-des-zentralpavillons-in-den-giardini</link>
             <guid>https://www.detail.de/de_en/neugestaltung-des-zentralpavillons-in-den-giardini</guid>
             <description>Following 16 months of renovations, the Central Pavilion in the Giardini della Biennale has reopened in time for the Art Biennale. The modernisation was overseen by Labics and Fabio Fumagalli.</description>
-        </item>
-        <item>
-            <title>Titlis Tower in Engelsberg by Herzog &amp; de Meuron</title>
-            <link>https://www.detail.de/de_en/titlis-tower-in-engelsberg-von-herzog-de-meuron</link>
-            <guid>https://www.detail.de/de_en/titlis-tower-in-engelsberg-von-herzog-de-meuron</guid>
-            <description>At an elevation of over 3 000 metres above sea level, Herzog &amp; de Meuron has transformed an antenna tower into an iconic steel sculpture. Visitors can enjoy the panoramic views of the glacier from the viewing platform and take a break in the restaurant.</description>
         </item>
         <item>
             <title>Hotel Leo in St. Gallen by Boltshauser Architects</title>
