@@ -4,13 +4,25 @@
   <title>DETAIL Magazine</title>
   <link>https://www.detail.de/de_en/</link>
   <description>Nejnovější architektonické projekty a články z Detail.de</description>
-  <lastBuildDate>Wed, 02 Sep 2026 12:36:45 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 03 Sep 2026 12:39:35 GMT</lastBuildDate>
   
         <item>
-            <title>Kitsilano House by Scott &amp; Scott Architects in Vancouver</title>
-            <link>https://www.detail.de/de_en/kitsilano-wohnhaus-von-scott-scott-architects</link>
-            <guid>https://www.detail.de/de_en/kitsilano-wohnhaus-von-scott-scott-architects</guid>
-            <description>Scott &amp; Scott Architects have incorporated a hybrid structure with staggered volumes of timber and concrete in southwest Vancouver. They used many locally sourced materials to complete the project.</description>
+            <title>Dominique Frelaut School Group by Tectoniques</title>
+            <link>https://www.detail.de/de_en/dominique-frelaut-school-group-von-tectoniques</link>
+            <guid>https://www.detail.de/de_en/dominique-frelaut-school-group-von-tectoniques</guid>
+            <description>Terraced gardens define the tiered levels of the five-storey school complex built by Tectoniques near Paris. It comprises 25 classrooms and a courtyard.</description>
+        </item>
+        <item>
+            <title>Building is Storytelling</title>
+            <link>https://www.detail.de/de_en/wer-baut-erzahlt</link>
+            <guid>https://www.detail.de/de_en/wer-baut-erzahlt</guid>
+            <description>The founder of MAD Architects talks about the Fenix Museum in Rotterdam, the hutong that shaped his childhood, and the limits of AI in design.</description>
+        </item>
+        <item>
+            <title>Open the Boot!</title>
+            <link>https://www.detail.de/de_en/machen-sie-mal-den-kofferraum-auf</link>
+            <guid>https://www.detail.de/de_en/machen-sie-mal-den-kofferraum-auf</guid>
+            <description>Border controls are being stepped up once again. In Rostock, over just two years Sauerbruch Hutton has built a new training centre for 600 aspiring customs officers: a timber modular building – complete with a student hall of residence.</description>
         </item>
         <item>
             <title>DETAIL Modular Building Congress 2026</title>
@@ -19,10 +31,16 @@
             <description>Modular and serial construction enable fast, cost-effective and resource-efficient projects: precise planning, short construction times and flexible and adaptable building concepts.</description>
         </item>
         <item>
-            <title>Open the Boot!</title>
-            <link>https://www.detail.de/de_en/machen-sie-mal-den-kofferraum-auf</link>
-            <guid>https://www.detail.de/de_en/machen-sie-mal-den-kofferraum-auf</guid>
-            <description>Border controls are being stepped up once again. In Rostock, over just two years Sauerbruch Hutton has built a new training centre for 600 aspiring customs officers: a timber modular building – complete with a student hall of residence.</description>
+            <title>1 000 Modules in a prefab housing estate</title>
+            <link>https://www.detail.de/de_en/zoll-ist-toll-1000-module-in-der-plattenbausiedlung</link>
+            <guid>https://www.detail.de/de_en/zoll-ist-toll-1000-module-in-der-plattenbausiedlung</guid>
+            <description>The New Customs University in Rostock is more than the largest timber modular building in Europe. Here, Sauerbruch Hutton demonstrates just how individualised mass-produced construction can be. The 600 students are delighted.</description>
+        </item>
+        <item>
+            <title>Kitsilano House by Scott &amp; Scott Architects in Vancouver</title>
+            <link>https://www.detail.de/de_en/kitsilano-wohnhaus-von-scott-scott-architects</link>
+            <guid>https://www.detail.de/de_en/kitsilano-wohnhaus-von-scott-scott-architects</guid>
+            <description>Scott &amp; Scott Architects have incorporated a hybrid structure with staggered volumes of timber and concrete in southwest Vancouver. They used many locally sourced materials to complete the project.</description>
         </item>
         <item>
             <title>KUUB School Centre in Antwerp by Compagnie-O Architects</title>
@@ -35,18 +53,6 @@
             <link>https://www.detail.de/de_en/gute-details-feiern-die-losung</link>
             <guid>https://www.detail.de/de_en/gute-details-feiern-die-losung</guid>
             <description>An interview with Dorte Mandruo about the freedom of freehand sketching, architectural role models, and why sailing and building speak the same language.</description>
-        </item>
-        <item>
-            <title>Building is Storytelling</title>
-            <link>https://www.detail.de/de_en/wer-baut-erzahlt</link>
-            <guid>https://www.detail.de/de_en/wer-baut-erzahlt</guid>
-            <description>The founder of MAD Architects talks about the Fenix Museum in Rotterdam, the hutong that shaped his childhood, and the limits of AI in design.</description>
-        </item>
-        <item>
-            <title>1 000 Modules in a prefab housing estate</title>
-            <link>https://www.detail.de/de_en/zoll-ist-toll-1000-module-in-der-plattenbausiedlung</link>
-            <guid>https://www.detail.de/de_en/zoll-ist-toll-1000-module-in-der-plattenbausiedlung</guid>
-            <description>The New Customs University in Rostock is more than the largest timber modular building in Europe. Here, Sauerbruch Hutton demonstrates just how individualised mass-produced construction can be. The 600 students are delighted.</description>
         </item>
         <item>
             <title>Lagmansgården Special-Needs School by Anttinen Oiva Architects</title>
@@ -77,12 +83,6 @@
             <link>https://www.detail.de/de_en/die-erde-braucht-uns-nicht</link>
             <guid>https://www.detail.de/de_en/die-erde-braucht-uns-nicht</guid>
             <description>The Paris-based architect with roots in Beirut explains why architecture remains, above all, a matter of people.</description>
-        </item>
-        <item>
-            <title>Between Playfulness and Science</title>
-            <link>https://www.detail.de/de_en/zwischen-spieltrieb-und-wissenschaft</link>
-            <guid>https://www.detail.de/de_en/zwischen-spieltrieb-und-wissenschaft</guid>
-            <description>Many Australian farmers consider bamboo a waste product. However, Cave Urban, based in Sydney, uses it to create impressive art and architectural installations. In this interview, they explain how they came up with the idea and what they have learnt about building with bamboo.</description>
         </item>
         <item>
             <title>The Artistic: Coworking in Zurich</title>
