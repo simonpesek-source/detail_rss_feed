@@ -4,8 +4,20 @@
   <title>DETAIL Magazine</title>
   <link>https://www.detail.de/de_en/</link>
   <description>Nejnovější architektonické projekty a články z Detail.de</description>
-  <lastBuildDate>Sun, 20 Sep 2026 12:54:44 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 21 Sep 2026 14:54:42 GMT</lastBuildDate>
   
+        <item>
+            <title>Education Centre in Kössen by Pedevilla Architects</title>
+            <link>https://www.detail.de/de_en/bildungszentrum-in-kossen-von-pedevilla-architekten</link>
+            <guid>https://www.detail.de/de_en/bildungszentrum-in-kossen-von-pedevilla-architekten</guid>
+            <description>Drawing inspiration from the architectural style of local residential buildings and farmhouses, the new education centre in Kössen boasts a colourful design. Children can enjoy an entertaining scavenger hunt as they search for the cross-stitch motif found throughout the building, which is presented in a variety of materials, sizes and colours.</description>
+        </item>
+        <item>
+            <title>Learning from the new generation</title>
+            <link>https://www.detail.de/de_en/lernen-von-der-neuen-generation</link>
+            <guid>https://www.detail.de/de_en/lernen-von-der-neuen-generation</guid>
+            <description>The Erich Mendelsohn Prize recognises emerging talent with its Newcomer Award. The three winning projects for 2026 address issues that are important to the younger generation.</description>
+        </item>
         <item>
             <title>Caparol Architecture Award Presented</title>
             <link>https://www.detail.de/de_en/caparol-architektur-award-verliehen</link>
@@ -35,18 +47,6 @@
             <link>https://www.detail.de/de_en/utopia-now-ausgezeichnete-entwurfe</link>
             <guid>https://www.detail.de/de_en/utopia-now-ausgezeichnete-entwurfe</guid>
             <description>How much utopia lies in a scaffold, a snow shovel or a city’s rubbish? The award-winning projects from UTOPIA – NOW! show that the future sometimes begins where you least expect it.</description>
-        </item>
-        <item>
-            <title>Education Centre in Kössen by Pedevilla Architects</title>
-            <link>https://www.detail.de/de_en/bildungszentrum-in-kossen-von-pedevilla-architekten</link>
-            <guid>https://www.detail.de/de_en/bildungszentrum-in-kossen-von-pedevilla-architekten</guid>
-            <description>Drawing inspiration from the architectural style of local residential buildings and farmhouses, the new education centre in Kössen boasts a colourful design. Children can enjoy an entertaining scavenger hunt as they search for the cross-stitch motif found throughout the building, which is presented in a variety of materials, sizes and colours.</description>
-        </item>
-        <item>
-            <title>Learning from the new generation</title>
-            <link>https://www.detail.de/de_en/lernen-von-der-neuen-generation</link>
-            <guid>https://www.detail.de/de_en/lernen-von-der-neuen-generation</guid>
-            <description>The Erich Mendelsohn Prize recognises emerging talent with its Newcomer Award. The three winning projects for 2026 address issues that are important to the younger generation.</description>
         </item>
         <item>
             <title>AACM Nursery near Venice</title>
